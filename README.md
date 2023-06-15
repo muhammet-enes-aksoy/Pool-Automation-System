@@ -1,17 +1,17 @@
-# Pool Automation
+# Pool Automation System
 
-## About Project
+### About Project
 The project is a pool automation system where a user can make a reservation after completing the registration or login process. The user can add or delete reservations. View their reservations.  Complete the reservation by selecting the pool type and date.  Admin has the authority to view and edit all these.
 
-## Technologies
+### Technologies
 - Java
 - Eclipse
 - MySQL
 
-## Database
+### Database
 ![veritabanı](https://github.com/enessaks/Pool-Automation/assets/97848966/d571ad55-fb83-4708-8a1b-3f2f33566a73)
 
-## Panels Screenshots
+### User Panels Screenshots
 - Sign Up Panel
   
 ![uygulama açıldığında gelen panel login panel](https://github.com/enessaks/Pool-Automation/assets/97848966/77f71df9-9249-4777-8d60-76550a983e8f)
@@ -35,5 +35,5 @@ The project is a pool automation system where a user can make a reservation afte
 ![rezsil](https://github.com/enessaks/Pool-Automation/assets/97848966/cd0bd6c2-a7f0-4459-864a-ff4d9cb3e1c2)
 
 
-## Admin Panel
+### Admin Panel
 ![admin panel](https://github.com/enessaks/Pool-Automation/assets/97848966/1951bded-4e76-4b97-9841-c197e983a20b)
